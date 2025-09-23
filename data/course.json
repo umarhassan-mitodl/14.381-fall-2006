@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Econometrics"
+    ],
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ]
+  ],
+  "legacy_uid": "3d9fd106-b705-a6ee-cadb-af8bdedcf6e3",
+  "instructors": {
+    "content": [
+      "22a17a94-cba8-7361-03e8-4a86f73b37a7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d7e04676-7ea7-5c1a-ae40-8bd0985de783",
+    "website": "14-381-statistical-method-in-economics-fall-2006"
+  },
+  "course_title": "Statistical Method in Economics",
+  "course_description": "\ufeffThis course is divided into two sections, Part I and Part II. \u00a0Part I provides an introduction to statistical theory and can be found by visiting [14.381 Fall 2018](/courses/14-381-statistical-method-in-economics-fall-2018/).\u00a0\n\nPart II, found here, prepares students for the remainder of the econometrics sequence. The emphasis of the course is to understand the basic principles of statistical theory. A brief review of probability will be given; however, this material is assumed knowledge. The course also covers basic regression analysis. Topics covered include probability, random samples, asymptotic methods, point estimation, evaluation of estimators, Cramer-Rao theorem, hypothesis tests, Neyman Pearson lemma, Likelihood Ratio test, interval estimation, best linear predictor, best linear approximation, conditional expectation function, building functional forms, regression algebra, Gauss-Markov optimality, finite-sample inference, consistency, asymptotic normality, heteroscedasticity, and autocorrelation.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.381",
+  "course_image_thumbnail": {
+    "content": "64e89ed8-5153-eb37-42b3-5bb3a04c8786",
+    "website": "14-381-statistical-method-in-economics-fall-2006"
+  },
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "1edc1f20-28a8-45e5-bd32-735f636f0e85",
+  "site_short_id": "14.381-fall-2006",
+  "site_url_path": "courses/14-381-statistical-method-in-economics-fall-2006",
+  "title": "Course Metadata"
+}
