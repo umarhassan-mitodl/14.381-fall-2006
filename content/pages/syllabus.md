@@ -47,7 +47,7 @@ This book covers all of the material in Part 1 and provides many problems for pr
 
 Greene, William. _Econometric Analysis_. 5{{< sup "th" >}} ed. Upper Saddle River, NJ: Prentice-Hall, 2002. ISBN: 9780130661890.
 
-Errors in the 5{{< sup "th" >}} edition may be found {{% resource_link "a00f6473-03f4-4300-8ebb-b174359488fa" "here" %}}.
+Errors in the 5{{< sup "th" >}} edition may be found [here](http://pages.stern.nyu.edu/~wgreene/Text/econometricanalysis.htm).
 
 You can also find the material in any standard text on regression.
 

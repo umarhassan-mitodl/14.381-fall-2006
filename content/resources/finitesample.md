@@ -5,6 +5,8 @@ description: This resource provides examples of finite sample inference beyond n
 file: /courses/14-381-statistical-method-in-economics-fall-2006/6f9323ddafab4b901fdac98597e7c54b_finitesample.pdf
 file_size: 78710
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
