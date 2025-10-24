@@ -3,8 +3,6 @@ content_type: page
 description: This section contains lecture notes covering the fundamentals of regression,
   regression calculus, estimation and basic inference in finite samples, and estimation
   and basic inference in large samples. They are preliminary and may contain errors.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

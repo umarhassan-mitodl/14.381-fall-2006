@@ -5,8 +5,6 @@ description: This resource contains a problem set on assessing consistency, hete
 file: /courses/14-381-statistical-method-in-economics-fall-2006/def2c6e35df5b71ab5c714b285e44c9c_ps7.pdf
 file_size: 85871
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
