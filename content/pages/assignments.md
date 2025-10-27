@@ -189,7 +189,7 @@ A quick review of the course
 
 Finite sample ({{% resource_link 6f9323dd-afab-4b90-1fda-c98597e7c54b "PDF" %}})
 
-Kessler, David, and Peter Temin. "[Money and Prices in the Early Roman Empire](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=704724)." In _The Monetary Systems of the Greeks and Romans_. New York, NY: Oxford University Press, forthcoming February, 2008. ISBN: 9780199233359.
+Kessler, David, and Peter Temin. "{{% resource_link "7d96d585-cebe-449c-88c8-1421dc84e5e1" "Money and Prices in the Early Roman Empire" %}}." In _The Monetary Systems of the Greeks and Romans_. New York, NY: Oxford University Press, forthcoming February, 2008. ISBN: 9780199233359.
 
 
 {{< tdclose >}}
